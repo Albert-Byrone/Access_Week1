@@ -1,0 +1,13 @@
+p {
+    color: blue;
+}
+#paragraph {
+    background-color: red;
+    font-weight: bold;
+}
+.paragraph {
+    background-color: green;
+}
+.paragraph {
+    background-color: yellow;
+}
