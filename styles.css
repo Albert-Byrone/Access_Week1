@@ -11,3 +11,21 @@ p {
 .paragraph {
     background-color: yellow;
 }
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+#main{
+   width: 50%;
+   background-color:red;
+}
+
+#content{
+   width: 50%;
+   background-color:green;
+}
